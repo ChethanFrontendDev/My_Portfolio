@@ -50,7 +50,7 @@ body{
 }
 .hero .hero-img{
     padding-top: 3rem;
-    max-width: 350px;
+    max-width: 320px;
     display: block;
     margin: auto;
 }
@@ -116,10 +116,14 @@ body{
       max-width: 95%;
       width: 100%;
     }
-  
     .list-item-inline {
       display: inline;
       padding: 0rem;
+    }
+    
+    .section .project-section .list-item-inline{
+        display: block;
+        margin: 2rem 0rem;
     }
   }
 
