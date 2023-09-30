@@ -124,4 +124,22 @@ body{
   }
 
 
-  
+/* projects */
+.live-project{
+    margin: 0rem 1rem;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 1.2rem;
+}
+.view-source{
+    border: 1px solid var(--primary-color);
+    border-radius: 1.2rem;
+    color: var(--primary-color);
+}
+.section .project-section{
+    margin: 2rem 0rem;
+}
+.section .container-offwhite small{
+    display: block;
+    margin-top: -1rem;
+}
