@@ -17,6 +17,6 @@ Welcome to my portfolio! This project showcases my work as a web developer, high
 To view the portfolio locally, clone this repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone [https://github.com/ChethanFrontendDev/My_Portfolio.git]
+cd My-Portfolio
 open index.html
